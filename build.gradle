@@ -1,0 +1,28 @@
+// this is the parent build configuration for all the sample projects.
+// for more information on gradle build files when used in a multi-project build, see
+// http://gradle.org/docs/current/userguide/multi_project_builds.html
+
+buildscript {
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.1.0'
+    }
+}
+
+// allprojects apply to every project
+allprojects {
+    repositories {
+        mavenCentral()
+    }
+
+    ext {
+        android_compile_version = 20
+        android_version = '20'
+        android_min_sdk_version = 11
+
+        appcompat_library_version = '20.0.+'
+        support_library_version = '20.0.+'
+        gms_library_version = '6.5+'
+    }
+}
+
+

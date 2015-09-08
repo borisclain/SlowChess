@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/boris/Desktop/GooglePlayGameSamples/android-basic-samples-master/BasicSamples/SkeletonTbmp/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/home/boris/Desktop/GooglePlayGameSamples/android-basic-samples-master/BasicSamples/SkeletonTbmp/build/intermediates/pre-dexed/debug/classes-93fd65d18bbf197dec7866fca4479a36637e4d29.jar" />
+    </item>
+    <item
+        jar="/home/boris/Desktop/GooglePlayGameSamples/android-basic-samples-master/BasicSamples/SkeletonTbmp/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/home/boris/Desktop/GooglePlayGameSamples/android-basic-samples-master/BasicSamples/SkeletonTbmp/build/intermediates/pre-dexed/debug/classes-a52c3fcfe9729879be8ecccba82e99ea3677eb19.jar" />
+    </item>
+    <item
+        jar="/home/boris/Desktop/GooglePlayGameSamples/android-basic-samples-master/BasicSamples/SkeletonTbmp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/home/boris/Desktop/GooglePlayGameSamples/android-basic-samples-master/BasicSamples/SkeletonTbmp/build/intermediates/pre-dexed/debug/classes-658c5ed6c1b8428635b436aa1563a8b2a6a3a931.jar" />
+    </item>
+    <item
+        jar="/home/boris/Desktop/GooglePlayGameSamples/android-basic-samples-master/BasicSamples/SkeletonTbmp/build/intermediates/exploded-aar/BasicSamples.libraries/BaseGameUtils/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e3681879597d177bd5b457f47d48ad13a17cd413">
+        <dex dex="/home/boris/Desktop/GooglePlayGameSamples/android-basic-samples-master/BasicSamples/SkeletonTbmp/build/intermediates/pre-dexed/debug/classes-3bbf180b7e8b97315e814753c87858b0d6f72147.jar" />
+    </item>
+    <item
+        jar="/home/boris/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/home/boris/Desktop/GooglePlayGameSamples/android-basic-samples-master/BasicSamples/SkeletonTbmp/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-15c548db586ac8d92029075d147189a237d9b89b.jar" />
+    </item>
+    <item
+        jar="/home/boris/Desktop/GooglePlayGameSamples/android-basic-samples-master/BasicSamples/SkeletonTbmp/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/home/boris/Desktop/GooglePlayGameSamples/android-basic-samples-master/BasicSamples/SkeletonTbmp/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-6b6910eddf3d02709b4b1d9508de6b54fd62f616.jar" />
+    </item>
+
+</items>
